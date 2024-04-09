@@ -14,4 +14,4 @@ string2 should be changed from "change this" to "hello"
 
 string1 = "test"
 
-string2 = "1"
+string2 = "hello"
