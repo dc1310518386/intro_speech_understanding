@@ -33,7 +33,6 @@ def my_average(input_list):
     You may assume that `input_list` is a non-empty list, in which every element is a number.  
     Calculate the average value, and return it. 
     '''
-    
     return sum(input_list) / len(input_list)
     
 
